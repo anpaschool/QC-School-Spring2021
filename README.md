@@ -14,7 +14,7 @@ To provide a forum to enhance science and technology in Nepal through various pr
 
 We host various discussion forums and informal classes throughout the year. Some of those classes include honing programming skills, exploring the world of Quantum Computing, and Data Science.
 
-This Fall we will be offering Quantum Computing classes with a focus on Quantum Machine Learning.
+This Spring we will be offering Quantum Computing classes with a focus on Quantum Machine Learning.
 
 This repository will include all the Jupyter Notebooks discussed in our classes and discussions in QC School Spring2021. 
 
