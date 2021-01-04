@@ -16,6 +16,6 @@ We host various discussion forums and informal classes throughout the year. Some
 
 This Fall we will be offering Quantum Computing classes with a focus on Quantum Machine Learning.
 
-This repository will include all the Jupyter Notebooks discussed in our classes and discussions in QC School Fall2020. 
+This repository will include all the Jupyter Notebooks discussed in our classes and discussions in QC School Spring2021. 
 
 Notebook will be added after every class. Students will be shared the link to Github page. 
