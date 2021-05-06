@@ -19,3 +19,13 @@ This Spring we will be offering Quantum Computing classes with a focus on Quantu
 This repository will include all the Jupyter Notebooks discussed in our classes and discussions in QC School Spring2021. 
 
 Notebook will be added after every class. Students will be shared the link to Github page. 
+
+
+### Some Url's
+
+* [Qiskit Textbook](https://qiskit.org/textbook/preface.html)  
+* [Qiskit Tutorials](https://qiskit.org/documentation/tutorials/circuits/1_getting_started_with_qiskit.html)     
+* [IBM Summer School 2020 Lectures](https://qiskit.org/learn/intro-qc-qh/)   
+
+
+
