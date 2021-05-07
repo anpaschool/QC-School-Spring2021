@@ -26,7 +26,7 @@ Notebook will be added after every class. Students will be shared the link to Gi
 * [Qiskit Textbook](https://qiskit.org/textbook/preface.html)  
 * [Qiskit Tutorials](https://qiskit.org/documentation/tutorials/circuits/1_getting_started_with_qiskit.html)     
 * [Qiskit Global Summer School 2020 Lectures](https://qiskit.org/learn/intro-qc-qh/) 
-* [Qiskit Global Summer School 2021 Resgistration](https://qiskit.org/events/summer-school/)  
+* [Qiskit Global Summer School 2021 Registration](https://qiskit.org/events/summer-school/)  
 * [IBM Quantum Challege 2021](https://challenges.quantum-computing.ibm.com/iqc21)  
 
 
